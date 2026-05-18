@@ -7,4 +7,5 @@ sympy==1.12
 matplotlib==3.8.4
 plotly==5.20.0
 pandas==2.2.2
+rdkit-pypi==2022.9.5
 Pillow
